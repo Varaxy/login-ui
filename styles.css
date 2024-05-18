@@ -88,6 +88,7 @@ h2 {
     text-align: center;
     margin-bottom: 20px;
     transition: font-size 0.5s ease;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.8), 0 0 10px rgba(255, 255, 255, 0.5); /* Enhanced text shadow and glow */
 }
 
 .alternate-action {
